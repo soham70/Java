@@ -30,18 +30,5 @@ public class Linkedlist {
         Collections.sort(num);
 
         System.out.println(num);
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
